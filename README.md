@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 Currently teaching many courses as independent for differente schools located in Rennes. 
+
+All my repos are MIT licensed. As I create many courses, it may occur that I forgot to mention the license file. 
+
+If so, do not hesitate to clone to repo !
+
 My repositories are mainly meant for students. Please enjoy. 
 I am always open to new discussions so please contact me if needed ! 
 
